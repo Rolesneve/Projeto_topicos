@@ -1,0 +1,33 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    background: gray
+}
+h1{
+	color: white
+}
+}
+
+div.git {
+	text-align: left;
+}
+div.pytest {
+	text-align: center;
+}
+div.flask {
+	text-align: right;
+}
+div.git, div.pytest, div.flask {
+	width: 430px;
+	display: inline-block;
+}
+nav {
+	text-align: right;
+}
+footer {
+    color: white;
+    text-align: center;
+    background: black;
+    height: 120px;
+}
